@@ -1,16 +1,17 @@
-## Hi there 👋
+# wec-hk
 
-<!--
-**wec-hk/wec-hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![wec-hk website preview](https://raw.githubusercontent.com/wec-hk/wec-hk-website/main/assets/project-preview.svg)\n\nA hospitality-first restaurant experience with menu discovery, reservations, events, story and visit information.
 
-Here are some ideas to get you started:
+## Current project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Industry:** restaurant
+- **Website:** https://wec-hk.github.io/wec-hk-website/
+- **Repository:** https://github.com/wec-hk/wec-hk-website
+
+## About
+
+Building a complete restaurant digital presence with a professional website, support routes, project documentation and responsive design.
+
+---
+
+Profile prepared automatically by BrandForge.
